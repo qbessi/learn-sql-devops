@@ -77,6 +77,3 @@
 ### Best Practices
 49. **Write a query that adheres to best practices** for readability and performance.
 50. **Document your SQL queries** to explain their purpose and logic.
-
-### Practice and Implementation
-Try to implement these tasks in a real or simulated environment, like a local SQL database or a cloud-based SQL service. Each task will help reinforce your understanding and prepare you for practical applications in a DevOps context!
