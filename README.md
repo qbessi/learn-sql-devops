@@ -1,5 +1,3 @@
-Absolutely! Here’s a list of 50 SQL tasks that will help you build a solid foundation in SQL, which is crucial for DevOps roles. These tasks cover various SQL concepts and operations:
-
 ### Basic SQL Queries
 1. **Select all columns** from a table.
 2. **Select specific columns** from a table.
